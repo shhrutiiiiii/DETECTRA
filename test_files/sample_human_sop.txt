@@ -1,0 +1,13 @@
+Why I Want to Study Computer Science – Personal Statement
+
+Okay so I know this probably sounds cliché, but I genuinely fell in love with programming because of a bug. Not the kind in nature – the kind that crashes your code at 2am the night before a deadline. I was 15, trying to build a basic calculator for a school project in Python, and I had no idea why my program kept spitting out wrong answers. Turns out I'd mixed up integer and float division – I know, totally embarrassing in hindsight.
+
+But here's the thing: when I finally figured it out? I felt this weird rush. Like solving a puzzle nobody else could see. That feeling kind of never went away.
+
+My high school didn't offer AP Computer Science, which was honestly frustrating. So I just... taught myself. I went through online courses on YouTube, worked through some free materials, and started building small projects. My first "real" project was a terrible little web scraper that pulled cricket scores from an ESPN page. It broke constantly and I didn't really know what I was doing, but I spent entire weekends just trying to make it work better. My parents thought I'd lost it.
+
+I've also done some tutoring for younger kids in math. That experience changed how I think about teaching and problem-solving in ways I didn't expect. You can't really explain something until you understand it yourself – and explaining it to a ten-year-old is its own challenge entirely. I got a lot better at breaking big problems into small steps.
+
+I don't have a perfect SAT score or a list of fancy internships. I come from a pretty ordinary background – my parents both work in retail and I'm the first person in my family who's seriously considering university. There were plenty of nights I wondered whether this whole thing was realistic. But I kept coming back to the problems, the code, the small wins that somehow add up.
+
+I want to study CS because I think it's the one discipline where I can keep being curious indefinitely. There's always more to learn, always a harder problem to try. I want to be in an environment where that kind of thinking is normal.

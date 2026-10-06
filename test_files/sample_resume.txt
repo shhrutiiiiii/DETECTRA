@@ -1,0 +1,37 @@
+Jordan Mitchell
+Software Engineer
+jordan.mitchell@email.com | linkedin.com/in/jordanmitchell | github.com/jordanmdev
+Boston, MA | (617) 555-0142
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with 4+ years building scalable backend systems and APIs. Seeking to leverage comprehensive expertise in Python, Go, and cloud infrastructure to deliver robust solutions in a dynamic, fast-growing environment.
+
+TECHNICAL SKILLS
+Languages: Python, Go, TypeScript, SQL, Bash
+Frameworks: FastAPI, Django, React, Next.js
+Tools: Docker, Kubernetes, Terraform, GitHub Actions, Redis
+Cloud: AWS (EC2, S3, Lambda, RDS), GCP
+
+WORK EXPERIENCE
+
+Senior Software Engineer | DataFlow Inc. | 2022 – Present
+- Architected and maintained a comprehensive microservices platform processing 2M+ daily events
+- Optimized critical database queries, achieving a 40% reduction in average response time
+- Led cross-functional collaboration to implement robust CI/CD pipelines using GitHub Actions
+- Mentored 3 junior engineers, fostering a culture of code quality and knowledge sharing
+
+Software Engineer | StartupBase | 2020 – 2022
+- Built RESTful APIs serving 50K+ monthly active users leveraging FastAPI and PostgreSQL
+- Implemented seamless third-party integrations with Stripe, Twilio, and SendGrid
+- Participated in Agile ceremonies and facilitated sprint planning for a team of 6 engineers
+
+EDUCATION
+B.S. Computer Science | Northeastern University | 2020
+GPA: 3.7 | Dean's List (4 semesters)
+
+PROJECTS
+OpenTrack (github.com/jordanmdev/opentrack)
+- Open-source job application tracker built with Next.js and Supabase; 200+ GitHub stars
+
+CERTIFICATIONS
+AWS Solutions Architect – Associate (2023)
